@@ -1,0 +1,70 @@
+#content {
+        width: 500px;
+        margin: 100px auto;
+}
+
+p {
+        font-family: 'Raleway', Verdana, sans-serif;
+        font-weight: 100;
+        font-size: 50px;
+        color: #666;
+}
+
+a {
+        text-decoration: none;
+        color: #333;
+        font-weight: 900;
+}
+
+a#cedar-av {
+        color: orange;
+        padding-right: 20px;
+        width: 230px!important;
+        display: inline-block;
+}
+
+span {
+}
+
+a#cedar-av:hover {
+        color: #fff;
+        -webkit-text-shadow: -1px 0 orange, 0 1px orange, 1px 0 orange, 0 -1px orange;
+        text-shadow: -1px 0 orange, 0 1px orange, 1px 0 orange, 0 -1px orange;
+}
+
+a#nate {
+    color: yellow;
+}
+
+a#nate:hover {
+        color: #fff;
+        -webkit-text-shadow: -1px 0 yellow, 0 1px yellow, 1px 0 yellow, 0 -1px yellow;
+        text-shadow: -1px 0 yellow, 0 1px yellow, 1px 0 yellow, 0 -1px yellow;
+}
+
+a#nick {
+    color: cyan;
+}
+
+a#nick:hover {
+        color: #fff;
+        -webkit-text-shadow: -1px 0 cyan, 0 1px cyan, 1px 0 cyan, 0 -1px cyan;
+        text-shadow: -1px 0 cyan, 0 1px cyan, 1px 0 cyan, 0 -1px cyan;
+}
+
+a#erik {
+    color: pink;
+}
+
+a#erik:hover {
+        color: #fff;
+        -webkit-text-shadow: -1px 0 pink, 0 1px pink, 1px 0 pink, 0 -1px pink;
+        text-shadow: -1px 0 pink, 0 1px pink, 1px 0 pink, 0 -1px pink;
+}
+
+
+a:hover {
+        /*color:purple!important;*/
+}
+
+
